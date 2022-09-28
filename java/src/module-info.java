@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kadınhanlı
+ *
+ */
+module java {
+}
